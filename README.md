@@ -15,5 +15,5 @@
 
 #### Apply the tools of machine learning to solve the classification and regression problems on Kaggle as below. </br>
 
-1. *[Titanic survival](http://nbviewer.jupyter.org/github/Agiwar/Kaggle/blob/master/titanic%20survival/Titanic.ipynb)*
+1. *[Titanic survival](http://nbviewer.jupyter.org/github/Agiwar/Kaggle/blob/master/titanic%20survival/Titanic%20survival.ipynb)*
 
